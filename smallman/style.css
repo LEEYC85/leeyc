@@ -1,0 +1,16 @@
+div{
+    width: 30%;
+    height: 200px;
+    background-color:antiquewhite;
+    cursor: url(s-man.png),auto;
+    border: 2px solid red;
+}
+h1{
+    border: 2px solid goldenrod;
+}
+
+P{
+    height: 30px;
+    font-size: large;
+    border: 2px solid goldenrod;
+}
